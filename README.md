@@ -8,7 +8,21 @@ gfhdfgjhfgsjhdgfjshdgfjhgsdfjh
 LA MISMA PRUEBA
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
+
+merge 33333333333333333333333333333
+=======
+
+mnbmnbmnbmnbmnbmnbnmfdsdf
+merge 1
+nbmnbmnbmnbnmfdsdf
+merge 2
+nbmnbmnbmnbnmfdsdf
+merge 3
+=======
+
 nbmnbmnbmnbnmfdsdf
 merge 4
 
+=======
 merge 5
+
